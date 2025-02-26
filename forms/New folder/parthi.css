@@ -1,0 +1,13 @@
+th{
+    border: 2px solid palevioletred;
+    border-collapse: collapse;
+}
+table{width: 100%;}
+td{text-align: center;}
+
+body
+*{background-color: pink;
+}
+body{color: black;
+    
+} 
